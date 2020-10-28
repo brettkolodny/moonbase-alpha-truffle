@@ -1,2 +1,4 @@
 # moonbase-alpha-truffle
 [ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle
+
+`0x7D78CFF4C821231BB120A924DD6161D89BE19aBE`, `0xa6b5e5Ce72620B1281a407c8ED6978bA89c09028`
